@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it and the accompanying paper."
-type: code
+type: software
 title: "Transformer-to-predict-stock-market-using-time2vec (DSE forecasting)"
-abstract:
+abstract: >-
   Code accompanying the paper "Transformer-based deep learning model for stock price
   prediction: A case study on Bangladesh stock market". The repository implements
   a transformer + time2vec pipeline for end-of-day and weekly forecasting on Dhaka
@@ -52,7 +52,7 @@ preferred-citation:
     - family-names: Khan
       given-names: Shahidul Islam
     - family-names: Alam
-      given-names: "Mohammad Sha'ul"
+      given-names: "Mohammad Shafiul"
   year: 2023
   journal: "International Journal of Computational Intelligence and Applications"
   volume: "22"
@@ -66,4 +66,3 @@ references:
     doi: "10.17632/23553sm4tn.3"
     url: "https://data.mendeley.com/datasets/23553sm4tn/3"
     notes: "Dataset used for the experiments in the paper/repo."
-
