@@ -4,7 +4,7 @@
 This repository contains the official implementation of the paper:  
 **"Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market"**  
 Published in: *[International Journal of Computational Intelligence and Applications | VOL. 22, NO. 03](https://www.worldscientific.com/worldscinet/ijcia)*  
-DOI: **[https://doi.org/10.1142/S146902682350013X](https://doi.org/10.1142/S146902682350013X)*
+DOI: **[https://doi.org/10.1142/S146902682350013X](https://doi.org/10.1142/S146902682350013X)**
  
 ---
 
