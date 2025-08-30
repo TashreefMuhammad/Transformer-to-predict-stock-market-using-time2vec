@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the accompanying paper."
+type: code
+title: "Transformer-to-predict-stock-market-using-time2vec (DSE forecasting)"
+abstract:
+  Code accompanying the paper "Transformer-based deep learning model for stock price
+  prediction: A case study on Bangladesh stock market". The repository implements
+  a transformer + time2vec pipeline for end-of-day and weekly forecasting on Dhaka
+  Stock Exchange (DSE) data, along with preprocessing and evaluation scripts.
+repository-code: "https://github.com/TashreefMuhammad/Transformer-to-predict-stock-market-using-time2vec"
+keywords:
+  - transformers
+  - time2vec
+  - time series forecasting
+  - stock market
+  - Dhaka Stock Exchange
+  - Bangladesh
+  - sequence modeling
+  - NLP
+authors:
+  - family-names: Muhammad
+    given-names: Tashreef
+    orcid: "https://orcid.org/0000-0002-9816-2547"
+    affiliation: "Southeast University, Dhaka, Bangladesh"
+  - family-names: Aftab
+    given-names: Anika Bintee
+  - family-names: Ibrahim
+    given-names: Muhammad
+  - family-names: Ahsan
+    given-names: Md. Mainul
+  - family-names: Muhu
+    given-names: Maishameem Meherin
+  - family-names: Khan
+    given-names: Shahidul Islam
+  - family-names: Alam
+    given-names: "Mohammad Shafiul"
+
+preferred-citation:
+  type: article
+  title: "Transformer-based deep learning model for stock price prediction: A case study on Bangladesh stock market"
+  authors:
+    - family-names: Muhammad
+      given-names: Tashreef
+    - family-names: Aftab
+      given-names: Anika Bintee
+    - family-names: Ibrahim
+      given-names: Muhammad
+    - family-names: Ahsan
+      given-names: Md. Mainul
+    - family-names: Muhu
+      given-names: Maishameem Meherin
+    - family-names: Khan
+      given-names: Shahidul Islam
+    - family-names: Alam
+      given-names: "Mohammad Sha'ul"
+  year: 2023
+  journal: "International Journal of Computational Intelligence and Applications"
+  volume: "22"
+  issue: "03"
+  doi: "10.1142/S146902682350013X"
+  url: "https://doi.org/10.1142/S146902682350013X"
+
+references:
+  - type: dataset
+    title: "Dhaka Stock Exchange Historical Data"
+    doi: "10.17632/23553sm4tn.3"
+    url: "https://data.mendeley.com/datasets/23553sm4tn/3"
+    notes: "Dataset used for the experiments in the paper/repo."
+
